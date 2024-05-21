@@ -1,0 +1,2 @@
+SELECT * FROM `huisdieren` WHERE 1 LIMIT 2;
+SELECT * FROM `huisdieren` WHERE 1 LIMIT 3;
